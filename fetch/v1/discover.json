@@ -1,17 +1,1 @@
-[
-  {
-    "uid": "category111",
-    "name": "我是分类标题",
-    "create_timestamp": "2022-07-26T10:14:23+08:00",
-    "items": [
-      {
-        "uid": "item111",
-        "category_id": "category111",
-        "item_local_path": "item/123",
-        "item_remote_url": "http://ccc.com",
-        "create_timestamp": "2022-07-26T10:14:23+08:00",
-        "name":"我是sub标题"
-      }
-    ]
-  }
-]
+{"version":"1658828996","data":[{"uid":"category111","name":"我是分类标题","create_timestamp":"2022-07-26T10:14:23+08:00","items":[{"uid":"item111","category_id":"category111","item_local_path":"item/123","item_remote_url":"http://ccc.com","create_timestamp":"2022-07-26T10:14:23+08:00","name":"我是sub标题"}]}]}
